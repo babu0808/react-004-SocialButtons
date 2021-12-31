@@ -1,0 +1,14 @@
+{
+  "name": "socialButtonsApp",
+  "version": "1.0.0",
+  "description": "In this project, let's build a **Social Buttons** by applying the concepts we have learned till now.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
