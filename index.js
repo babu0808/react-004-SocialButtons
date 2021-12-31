@@ -1,6 +1,7 @@
 const Button = (props) => {
-  const { classNam, buttontext } = props;
-  return <button classNam={`button ${className}`}> {buttontext}</button>;
+  const { className, buttonText } = props;
+
+  return <button className={`button ${className}`}>{buttonText}</button>;
 };
 
 const element = (
